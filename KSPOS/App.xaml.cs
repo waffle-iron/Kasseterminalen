@@ -28,7 +28,7 @@ namespace KSPOS
         /// </summary>
         public App()
         {
-            this.InitializeComponent();
+            this.InitializeComponent(); 
             this.Suspending += OnSuspending;
         }
 
